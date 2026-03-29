@@ -1,0 +1,4 @@
+While researching UPI and online payment fraud, what surprised me most was the psychological nature of the "Collect Request" scam. As a CSE student, I initially expected cybercrimes to involve complex hacking or code exploitation. However, I discovered that many attackers simply exploit human urgency and the technical misunderstanding of how a "PIN" works. Seeing how easily a "Request Money" notification can be mistaken for a "Receive Money" confirmation was a significant eye-opener.
+
+As a result, one habit I will personally change is my approach to mobile notifications. I have committed to the "Three-Second Rule": I will never enter my UPI PIN or scan a QR code without pausing for three seconds to read the transaction type (Debit vs. Credit) on the screen. This small change in digital hygiene is my first line of defense against social engineering.
+
